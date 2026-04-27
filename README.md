@@ -1,3 +1,4 @@
+# Basic web-based social network prototype
 1. Executive Summary
 This project is a basic web-based social network prototype that allows users to interact through profiles and content. It demonstrates core social media functionality such as creating posts, viewing a feed, and engaging with other users via likes and comments. The system is implemented as a lightweight frontend application without external dependencies, focusing on simplicity and ease of use.
 2. Technology Stack
