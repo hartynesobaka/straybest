@@ -3,7 +3,7 @@
 This project is a basic web-based social network prototype that allows users to interact through profiles and content. It demonstrates core social media functionality such as creating posts, viewing a feed, and engaging with other users via likes and comments. The system is implemented as a lightweight frontend application without external dependencies, focusing on simplicity and ease of use.
 2. Technology Stack
 Frontend: HTML, CSS
-Logic: Vanilla JavaScript (if used)
+Logic: Vanilla JavaScript
 Platform: Runs in any modern web browser
 3. System Workflow
 User Interaction: The user opens the site and navigates through the interface.
